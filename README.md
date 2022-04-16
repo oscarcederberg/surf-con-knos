@@ -1,6 +1,9 @@
 # surf con knos
 surf is a simple Web browser based on WebKit/GTK+. This contains patches that I've added from suckless.org.
 
+## Patches
+* homepage - Adds a default homepage.
+
 ## Installation
 ```
 sudo make clean install
